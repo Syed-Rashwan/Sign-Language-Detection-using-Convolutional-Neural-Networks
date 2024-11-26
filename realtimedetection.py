@@ -6,6 +6,7 @@ json_file = open("signlanguagedetectionmodel.json", "r")
 model_json = json_file.read()
 json_file.close()
 model = model_from_json(model_json)
+
 #Instead of signlanguagedetectionmodel.h5, use publicly available ASL Datasets. 
 model.load_weights("signlanguagedetectionmodel.h5") 
 
