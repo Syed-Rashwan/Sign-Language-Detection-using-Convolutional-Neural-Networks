@@ -1,1 +1,1 @@
-# Sign-Language-Detection-using-Convolutional-Neural-Networks.-
+# Sign-Language-Detection-using-Convolutional-Neural-Networks
