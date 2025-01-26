@@ -1,11 +1,3 @@
-# Sign-Language-Detection-using-Convolutional-Neural-Networks
-
-Thank you for sharing the project repository! I'll help you craft a professional **README.md** for your **Sign Language Detection using Convolutional Neural Networks** project. 
-
----
-
-## **README.md**
-
 # **Sign Language Detection using Convolutional Neural Networks**
 
 ## **Overview**
