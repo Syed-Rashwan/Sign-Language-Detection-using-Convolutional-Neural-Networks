@@ -6,7 +6,6 @@ Thank you for sharing the project repository! I'll help you craft a professional
 
 ## **README.md**
 
-```markdown
 # **Sign Language Detection using Convolutional Neural Networks**
 
 ## **Overview**
